@@ -40,8 +40,6 @@ java -jar target/first-project-java-spring-0.0.1-SNAPSHOT.jar
 
 </details>
 
----
-
 <details>
  <summary><code>GET</code> <code><b>/greeting</b></code> A dynamic greeting page with a photo.</summary>
 
