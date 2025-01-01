@@ -26,7 +26,7 @@ java -jar target/first-project-java-spring-0.0.1-SNAPSHOT.jar
 ## Routes
 
 <details>
- <summary><code>GET</code> <code><b>/</b></code> <code>A static generic hello Vistula page.</code></summary>
+ <summary><code>GET</code> <code><b>/</b></code> A static generic hello Vistula page.</summary>
 
 ##### Parameters
 
@@ -40,9 +40,10 @@ java -jar target/first-project-java-spring-0.0.1-SNAPSHOT.jar
 
 </details>
 
+---
 
 <details>
- <summary><code>GET</code> <code><b>/greeting</b></code> <code>A dynamic greeting page with a photo.</code></summary>
+ <summary><code>GET</code> <code><b>/greeting</b></code> A dynamic greeting page with a photo.</summary>
 
 ##### Parameters
 
