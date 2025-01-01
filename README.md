@@ -1,5 +1,4 @@
-# Java Lab 16
-
+# Java Lab 16 (Task 1)
 This is an introduction to the Spring Boot framework and part of the Java development course at the Vistula University. The repository contains a simple web application which greets the user visiting the `/greeting` page.
 
 
